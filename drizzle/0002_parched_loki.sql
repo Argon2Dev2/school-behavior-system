@@ -1,0 +1,1 @@
+ALTER TABLE `violation_types` ADD `suggestedAction` text;

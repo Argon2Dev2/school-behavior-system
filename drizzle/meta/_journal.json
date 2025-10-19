@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1760704939851,
+      "tag": "0000_round_mantis",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1760705001401,
+      "tag": "0001_quiet_leader",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1760707203033,
+      "tag": "0002_parched_loki",
+      "breakpoints": true
+    }
+  ]
+}
